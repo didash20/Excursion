@@ -28,7 +28,7 @@ The purpose of this project is to take into practice my growing toolset (includi
 * Command Line Interface
 
 ## Preview
-Follow this [link](http://didash20.github.io/Excursion/) to preview the project. (Not available yet)
+Follow this [link](http://didash20.github.io/Excursion/) to preview the project.
 
 ## Features
 * The html is semantic, ordered and commented
